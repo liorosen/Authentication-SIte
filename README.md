@@ -7,18 +7,18 @@ The project incorporates essential features such as secure user registration, lo
 Furthermore is has role-based access control to restricted resources, leveraging Flask-Login for session management and SQLAlchemy for database operations.<br>
 
 ## **Features**
-User Registration: Secure sign-up process for new users.<br>
-User Login/Logout: Authentication mechanisms for user sessions.<br>
-Role-Based Access Control: Restricts access to resources based on user roles.<br>
-Session Management: Maintains user sessions using Flask-Login.<br>
-Database Operations: Manages user data with SQLAlchemy.
+- User Registration: Secure sign-up process for new users.<br>
+- User Login/Logout: Authentication mechanisms for user sessions.<br>
+- Role-Based Access Control: Restricts access to resources based on user roles.<br>
+- Session Management: Maintains user sessions using Flask-Login.<br>
+- Database Operations: Manages user data with SQLAlchemy.
 
 ## **Technologies Used**
-Flask: Python web framework for building the application.<br>
-Flask-Login: Extension for session management.<br>
-SQLAlchemy: ORM for database interactions.<br>
-Jinja2: Template engine for rendering dynamic content.<br>
-HTML/CSS: Frontend technologies for the user interface.<br>
+<ins> Flask:</ins> Python web framework for building the application.<br>
+<ins> Flask-Login:</ins> Extension for session management.<br>
+<ins> SQLAlchemy:</ins> ORM for database interactions.<br>
+<ins> Jinja2:</ins> Template engine for rendering dynamic content.<br>
+<ins> HTML/CSS:</ins> Frontend technologies for the user interface.<br>
 
 ## **Usage**
 Register: Create a new account via the registration page.<br>
